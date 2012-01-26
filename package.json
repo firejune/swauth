@@ -1,0 +1,30 @@
+{
+  "name": "swauth",
+  "author": "Firejune (http://firejune.com/)",
+  "version": "0.1.0",
+  "description": "Swauth(Authentication middleware for Swift) REST client API for Node.JS",
+  "homepage": "http://github.com/firejune/swauth",
+  "keywords": ["swauth", "swift", "OpenStack", "Object Storage"],
+  "main": "lib/swauth",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "clog": ">= 0.1.0",
+    "wrap": ">= 0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/firejune/swauth.git"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://firejune.mit-license.org/"
+  }],
+  "bugs" : {
+    "url" : "http://github.com/firejune/swauth/issues"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
