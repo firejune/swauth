@@ -1,7 +1,7 @@
 {
   "name": "swauth",
   "author": "Firejune (http://firejune.com/)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Swauth(Authentication middleware for Swift) REST client API for Node.JS",
   "homepage": "http://github.com/firejune/swauth",
   "keywords": ["swauth", "swift", "OpenStack", "Object Storage"],
